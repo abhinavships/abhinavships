@@ -45,6 +45,27 @@
 
 <div align="center">
 
+## `> ls ./featured`
+
+<br/>
+
+</div>
+
+| Project | What it is | Stack |
+|---|---|---|
+| **[spidey](https://github.com/abhinavships/spidey)** | Live walkthrough agent: teach a browser workflow in one sentence, watch it run, narrate, take interruptions and refuse unsafe actions. Runs on a local 3B model. | Python, FastAPI, Playwright, Ollama |
+| **[smartdialer](https://github.com/abhinavships/smartdialer)** | Predictive dialer whose entire coordination layer is Postgres: `SKIP LOCKED` reservations, monotonic call state, leases, idempotent webhooks. | Python, FastAPI, PostgreSQL |
+| **[MedSea](https://github.com/abhinavships/MedSea)** | Consultation audio to signed-off SOAP note: transcription, medical NER, ICD-10 and HPO matching. [Demo](https://abhinavships.github.io/MedSea/) | React, Express, FastAPI, Whisper |
+| **[flybase_hackathon_cv](https://github.com/abhinavships/flybase_hackathon_cv)** | 4K drone video to junction-level traffic analytics: tracking, kinematics, OD matrices, speed fields. | YOLO11, ByteTrack, Streamlit |
+| **[gpuforge](https://github.com/abhinavships/gpuforge)** | LeetCode for GPU programming: CUDA and hardware problems, in-browser editor, XP and leaderboard. | React, Express, SQLite |
+| **[Limit order book market making](https://github.com/abhinavships/High-Frequency-Limit-Order-Book-Dynamics-PERSONAL)** | Avellaneda-Stoikov market maker with Hawkes order flow, backtester and dashboard. | Python, Streamlit |
+
+<br/>
+
+---
+
+<div align="center">
+
 ## `> ls -la ./stack`
 
 <br/>
