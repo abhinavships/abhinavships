@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Abhinav%20Patil&fontSize=56&fontColor=00ffcc&animation=fadeIn&fontAlignY=36&desc=AI%20engineer%20%C2%B7%20agents%20you%20can%20check&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Abhinav%20Patil&fontSize=56&fontColor=00ffcc&animation=fadeIn&fontAlignY=36&desc=AI%20engineer%20%C2%B7%20agents%20you%20can%20check&descAlignY=58&descSize=18" width="100%" alt="Abhinav Patil, AI engineer"/>
 
 **I build AI systems that prove their answers: agents, the evaluation harnesses that keep them honest, and the backends underneath.**
 
-<a href="https://linkedin.com/in/abhinavships"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ffcc" /></a>
-<a href="mailto:10dr40abhinavp@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ffcc" /></a>
-<a href="https://huggingface.co/abhinavships"><img src="https://img.shields.io/badge/Hugging%20Face-0d1117?style=for-the-badge&logo=huggingface&logoColor=00ffcc" /></a>
-<a href="https://x.com/abhinavships"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=00ffcc" /></a>
+<a href="https://linkedin.com/in/abhinavships"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ffcc" alt="LinkedIn" /></a>
+<a href="mailto:10dr40abhinavp@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ffcc" alt="Email" /></a>
+<a href="https://huggingface.co/abhinavships"><img src="https://img.shields.io/badge/Hugging%20Face-0d1117?style=for-the-badge&logo=huggingface&logoColor=00ffcc" alt="Hugging Face" /></a>
+<a href="https://x.com/abhinavships"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=00ffcc" alt="X" /></a>
 
 </div>
 
@@ -28,14 +28,12 @@ Open to **AI engineering** and **backend engineering** roles.
 | Project | What it is | Proof |
 |---|---|---|
 | **[WellOps Copilot](https://github.com/abhinavships/wellops-copilot)** | Chat copilot over oil-field asset data. Answers are computed in SQL, every figure is re-checked against its query result, and conflicting sources are surfaced instead of hidden. *FlytBase Hack Day, solo.* | 18/18 golden episodes offline · scorers catch 100% of injected faults · 199/199 answer-key checks agree |
-| **Tireless Hand** 🔒 | Agentic UI testing for a live drone cockpit: drives the real UI at phone, tablet and desktop size and checks the screen against API and socket ground truth. *FlytBase hackathon, solo.* | 15 of 16 injected bugs caught · 3 real bugs found in the shipped app, including stored XSS and missing tenant isolation |
+| **[Tireless Hand](https://github.com/abhinavships/tireless-hand-qa)** | Agentic UI testing for a live drone cockpit: drives the real UI at phone, tablet and desktop size and checks the screen against API and socket ground truth. *FlytBase hackathon, solo.* | 15 of 16 injected bugs caught · 3 real bugs found in the shipped app, including stored XSS and missing tenant isolation · [video](https://drive.google.com/file/d/1R-7BklS_XhJMI6Cq2811Kpjarf8yRpcx/view) |
 | **[music-resolver](https://github.com/abhinavships/music-resolver)** | Turns a music reference in a video-editing prompt into a licensed track fitted to the clip. | Milestones M1 to M9 built and tested offline · evaluation harness with blind pages and agreement scoring |
 | **[spidey](https://github.com/abhinavships/spidey)** | Teach a browser workflow in one sentence; it runs it, narrates from what it sees, takes interruptions mid-run and refuses irreversible actions. Runs on a local 3B model. | Grammar-constrained decoding · offline test suite with no browser, model or network |
 | **[smartdialer](https://github.com/abhinavships/smartdialer)** | Predictive dialer whose whole coordination layer is one Postgres database: `SKIP LOCKED` reservations, monotonic call states, leases, idempotent webhooks. | ADRs and traced failure scenarios · Docker and Railway deploy |
 | **[Drone traffic analytics](https://github.com/abhinavships/flybase_hackathon_cv)** | 4K drone footage of a junction turned into flow, turning movements, speed profiles and queues. *FlytBase CV hackathon.* | 167 road users tracked · 6,688 veh/h measured · real-time tracking benchmarked |
 | **[MedSea](https://github.com/abhinavships/MedSea)** | Consultation audio to a signed-off clinical note: transcription, medical entity extraction, ICD-10 matching. *Cavista Hackathon 2026, team.* | Three services · [live client demo](https://abhinavships.github.io/MedSea/) |
-
-<sub>🔒 Private repository. Code walkthrough available on request.</sub>
 
 <details>
 <summary><b>More projects</b></summary>
@@ -55,7 +53,7 @@ Open to **AI engineering** and **backend engineering** roles.
 
 ### Stack
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,cpp,react,nextjs,nodejs,fastapi,postgres,docker,pytorch,opencv,sklearn,gcp,linux,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,ts,js,cpp,react,nextjs,nodejs,fastapi,postgres,docker,pytorch,opencv,sklearn,gcp,linux,git&theme=dark" alt="Python, TypeScript, JavaScript, C++, React, Next.js, Node.js, FastAPI, Postgres, Docker, PyTorch, OpenCV, scikit-learn, GCP, Linux, Git" />
 
 <sub>Also: Pydantic AI, DuckDB, Playwright, Streamlit, Ollama and local LLMs, Opik.</sub>
 
